@@ -1,18 +1,7 @@
-   ### Hi, I'm Beatriz! 👋 
+   ### Hi👋 
  
  <img src="https://user-images.githubusercontent.com/79387140/182742102-9cefdf85-9768-4bc8-a528-4139fd890a21.gif" min-width="400px" max-width="400px" width="200px" align="right" alt="Bi">
- 
-<p align="left"> 
-  📚 Sou graduanda em Sistemas de Informação e atualmente venho estudando as frentes de <strong>desenvolvimento e engenharia de dados</strong>.
-</p>
 
-<p align="left">
-  🔭 Com o que trabalho: <strong>Python | RPA | ETL | SQL | Airflow </strong>
-</p>
-
-<p align="left">
-  📧 Onde me encontrar: ⤵️
-</p>
 
 <p align="left">
   <a href="mailto:aquinobeattriz@gmail.com" alt="Gmail">
